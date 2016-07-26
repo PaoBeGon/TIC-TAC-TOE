@@ -8,8 +8,10 @@ body{
 	width: 340px;
 	border: solid 2px #7401DF;
 }
-.casilla{
+.cont{
 	width: 100px;
 	height: 100px;
-	margin-bottom: 5px; 
+	margin-bottom: 5px;
+	font-size: 60px;
+	color: pink; 
 }
